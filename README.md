@@ -1,5 +1,5 @@
 # random-color
-randmon color background JS
+Tap on the button and get a random background color
 
 ![bc2](https://user-images.githubusercontent.com/106537238/183046202-e4c3226a-4c2d-41c5-9fd2-9189ff0b25a6.PNG)
 
